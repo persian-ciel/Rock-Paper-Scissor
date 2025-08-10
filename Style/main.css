@@ -1,0 +1,31 @@
+body{
+            background-color: black;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        img{
+            width: 60px;
+            height: 60px;
+            background-color: transparent;
+        }
+        .emojibtn{
+            padding: 20px;
+            margin-right: 10px;
+            background-color: black;
+            border: 2px solid white;
+            border-radius: 100px;
+            cursor: pointer;
+        }
+        .result{
+            margin-top: 40px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .result-button{
+            border: none;
+            padding: 10px 15px;
+            font-size: 15px;
+            background-color: white;
+            margin-top: 10px;
+            cursor: pointer;
+        }
